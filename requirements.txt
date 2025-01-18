@@ -1,0 +1,8 @@
+pandas
+ipywidgets
+statsmodels
+matplotlib
+seaborn
+scikit-learn
+ipython
+streamlit
