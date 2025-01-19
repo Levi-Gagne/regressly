@@ -1,0 +1,12 @@
+{
+    "logistic_regression_dataset-Social_Network_Ads.csv": {
+        "path": "/Users/levigagne/Desktop/JupyterLab/regressly/econometric_data/uploaded_files/logistic_regression_dataset-Social_Network_Ads.csv",
+        "headers": [
+            "User ID",
+            "Gender",
+            "Age",
+            "EstimatedSalary",
+            "Purchased"
+        ]
+    }
+}

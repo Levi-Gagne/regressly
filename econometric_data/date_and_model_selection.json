@@ -1,0 +1,11 @@
+{
+    "model": "Linear Regression",
+    "frequency": "Monthly",
+    "datasets": [
+        {
+            "file_name": "logistic_regression_dataset-Social_Network_Ads.csv",
+            "path": "/Users/levigagne/Desktop/JupyterLab/regressly/econometric_data/uploaded_files/logistic_regression_dataset-Social_Network_Ads.csv",
+            "date_column": "User ID"
+        }
+    ]
+}
