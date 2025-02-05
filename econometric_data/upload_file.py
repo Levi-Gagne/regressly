@@ -7,8 +7,8 @@ import streamlit as st
 
 # Set up paths
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-UPLOAD_DIR = os.path.join(CURRENT_DIR, "uploaded_files")
-JSON_FILE = os.path.join(UPLOAD_DIR, "ingested_files.json")
+UPLOAD_DIR  = os.path.join(CURRENT_DIR, "uploaded_files")
+JSON_FILE   = os.path.join(UPLOAD_DIR, "ingested_files.json")
 
 # Ensure the upload directory exists
 os.makedirs(UPLOAD_DIR, exist_ok=True)
